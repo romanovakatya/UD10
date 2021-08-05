@@ -65,6 +65,5 @@ public class AdivinarNumero {
 
 		//mostramos el resultado al acabar,
 		System.out.println("Has adivinado el número con " + contador + " intentos");
-
 	}
 }
